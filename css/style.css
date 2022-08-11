@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Red Rose", cursive;
+
+}
+
+
+
+body {
+
+  margin: auto;
+  background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)) ,url(../assets/pexels-maxyne-barcel-10402282\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+}
+
+
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+color:aliceblue;
+padding: 20px 40px;
+margin-top: 20px;
+
+}
+
+
+.list-item{
+  display: inline-block; 
+  margin:0 40px;
+  align-items: center;
+}
+
+.hero-heading{
+
+ padding-bottom: 20px;
+}
+
+h1{
+  color:gold;
+  height:100px;
+  width:1000px;
+  font-weight: 900;
+  font-size: 100px;
+  position: relative;
+  top:30px;
+  left:255px;
+  text-align: center;
+}
+
+.button-large{
+  height:70px;
+  width:300px;
+  background-color: coral ;
+  color: #fff;
+  padding: 10px;
+  position: relative;
+  left:620px;
+  top:350px;
+  font-size: 20px;
+}
+
+.button-small{
+  height:50px;
+  width:200px;
+  background-color: coral ;
+  color: #fff;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.bottom img{
+  float: right;
+  position:relative;
+  right:40px;
+  top:700px;
+}
+
+
+.list-item:hover{
+  cursor: pointer;
+  text-decoration: underline;
+ }
+
+ button:hover{
+  cursor: pointer;
+ }
