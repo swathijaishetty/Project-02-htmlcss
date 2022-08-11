@@ -1,4 +1,4 @@
-# Project-03
+# Project-02
 Done By  -  <br>
 
 ![badge](https://img.shields.io/badge/Swathi-Jaishetty-yellow)  
@@ -22,7 +22,7 @@ This project is made, using Basic HTML and CSS.
  To complete this project, HTML elements which are properly enclosed in classes are used, 
 so that it becomes easy while selecting and styling the elements using CSS.
 
- [Click-here for **Project Live Link**](https://htmlcss-project-03.netlify.app/)
+ [Click-here for **Project Live Link**](https://htmlcss-project-02.netlify.app/)
  <br>
 
  **_Screenshot_** :  
